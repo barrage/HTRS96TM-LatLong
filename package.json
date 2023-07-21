@@ -1,6 +1,6 @@
 {
   "name": "htrs96tm-latlong",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "TRS96TM to Latitude and Longitude Convertor",
   "main": "./dist/index.js",
   "type": "module",
